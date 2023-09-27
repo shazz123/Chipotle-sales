@@ -1,10 +1,10 @@
 # Chipotle-sales
 
-** Scenario **
+**Scenario**
 
 You are a financial data analyst at Chipotle and your manager has tasked you with analyzing the most recent sales numbers. She has provided the following set of questions she would like answered.
 
-** 𝙲𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎 𝚀𝚞𝚎𝚜𝚝𝚒𝚘𝚗𝚜 **
+**𝙲𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎 𝚀𝚞𝚎𝚜𝚝𝚒𝚘𝚗𝚜**
 
 𝟷. 𝚆𝚑𝚒𝚌𝚑 𝚠𝚊𝚜 𝚝𝚑𝚎 𝚖𝚘𝚜𝚝-𝚘𝚛𝚍𝚎𝚛𝚎𝚍 𝚒𝚝𝚎𝚖?
 
@@ -24,7 +24,7 @@ You are a financial data analyst at Chipotle and your manager has tasked you wit
 
 𝟿. 𝙷𝚘𝚠 𝚖𝚊𝚗𝚢 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚒𝚝𝚎𝚖𝚜 𝚊𝚛𝚎 𝚜𝚘𝚕𝚍?
 
-** Outcome **
+**Outcome**
 
 • Most ordered item is chicken bowl, ordered quantity is 761.
 
